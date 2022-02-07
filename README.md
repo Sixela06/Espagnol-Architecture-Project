@@ -1,7 +1,7 @@
 # Espagnol-Architecture-Project
 2022, Project d'architecture en Espaagnol. Model sur Minecraft
 
-World Version: 1.17.1
+MC Version: 1.17.1
 
 World Download: spanishPagoda.zip
 
